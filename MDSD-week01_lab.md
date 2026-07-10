@@ -425,6 +425,11 @@ Doctor summary (to see all details, run flutter doctor -v):
 > 📝 `[✗] Android toolchain` แสดงว่ายังไม่มี Android SDK — **ต้องแก้ไขในขั้นตอนที่ 4**
 > `[✓] Chrome` หมายความว่าสามารถรัน Flutter บน Chrome ได้แล้วทันที โดยไม่ต้องรอ Android SDK
 
+
+![](https://github.com/user-attachments/assets/70205baa-400c-4093-ae8d-bfb4b07ddee2)
+
+
+
 ---
 
 ### ขั้นตอนที่ 4: ติดตั้ง Android SDK Command-line Tools (แทน Android Studio)
