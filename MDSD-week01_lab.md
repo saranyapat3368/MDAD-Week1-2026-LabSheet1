@@ -426,9 +426,6 @@ Doctor summary (to see all details, run flutter doctor -v):
 > `[✓] Chrome` หมายความว่าสามารถรัน Flutter บน Chrome ได้แล้วทันที โดยไม่ต้องรอ Android SDK
 
 
-![](https://github.com/user-attachments/assets/70205baa-400c-4093-ae8d-bfb4b07ddee2)
-
-
 
 ---
 
@@ -680,6 +677,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 > 📝 **บันทึกผล:** จดบันทึก Error (`[✗]`) ที่พบ และทำการแก้ไขตามคำแนะนำ  
 > ไม่ต้องแก้ไขรายการที่ขึ้น `[!] Android Studio`
+
+
+![](https://github.com/user-attachments/assets/70205baa-400c-4093-ae8d-bfb4b07ddee2)
 
 ---
 
