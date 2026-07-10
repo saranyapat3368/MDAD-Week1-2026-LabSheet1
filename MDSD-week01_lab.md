@@ -1021,6 +1021,21 @@ class _MyHomePageState extends State<MyHomePage> {
 
 > 📝 **แบบฝึกหัด:** วาด Widget Tree ของโค้ดนี้ลงในใบงาน
 
+
+```text
+MyApp (StatelessWidget)
+  └── MaterialApp
+        └── MyHomePage (StatefulWidget)
+              └── Scaffold
+                    ├── AppBar
+                    │     └── Text ('Flutter Demo Home Page')
+                    ├── Center
+                    │     └── Column
+                    │           ├── Text ('You have pushed the button this many times:')
+                    │           └── Text ('$_counter')
+                    └── FloatingActionButton
+                          └── Icon (Icons.add)
+```
 ---
 
 ### ขั้นตอนที่ 4: รันแอปพลิเคชันครั้งแรก
@@ -1191,10 +1206,10 @@ class ProfilePage extends StatelessWidget {
 ```
 
 **TODO สำหรับนักศึกษา:**
-- [ ] เปลี่ยนชื่อและรหัสนักศึกษาให้เป็นของตัวเอง
-- [ ] เปลี่ยนข้อมูลในแถวข้อมูลให้เป็นของตัวเอง
-- [ ] เพิ่ม Row ข้อมูลเพิ่มเติมอีก 2 แถว
-- [ ] ลองเปลี่ยนสี Theme จาก `Colors.teal` เป็นสีอื่น
+- [✓] เปลี่ยนชื่อและรหัสนักศึกษาให้เป็นของตัวเอง
+- [✓] เปลี่ยนข้อมูลในแถวข้อมูลให้เป็นของตัวเอง
+- [✓] เพิ่ม Row ข้อมูลเพิ่มเติมอีก 2 แถว
+- [✓] ลองเปลี่ยนสี Theme จาก `Colors.teal` เป็นสีอื่น
 
 ---
 
